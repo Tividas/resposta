@@ -3,7 +3,11 @@ package fundamentos;
 import java.util.Scanner;
 
 public class Exercicio4 {
-	/** 4. Criar um programa que leia um valor e apresente os resultados ao quadrado e ao cubo do valor. */
+	/** 4. Criar um programa que leia um valor e apresente os resultados ao quadrado e ao cubo do valor.
+	 * 1 - ler o valor
+	 * 2 - calcular o quadrado e o cubo
+	 * 3 - mostrar valor
+	*/
 	
 	public static void main(String[] args) {
 

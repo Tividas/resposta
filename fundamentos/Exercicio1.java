@@ -4,7 +4,13 @@ import java.util.Scanner;
 
 public class Exercicio1 {
 	
-	/** 1. Criar um programa que leia a temperatura em Celsius e converta para Fahrenheit. */
+	/** 1. Criar um programa que leia a temperatura em Celsius e converta para Fahrenheit. 
+	 * 1 - ler o valor
+	 * 2 - converter
+	 * 3 - mostrar
+	*/
+
+
 	
 	public static void main(String[] args) {
 		

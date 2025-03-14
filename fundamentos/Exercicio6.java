@@ -2,6 +2,12 @@ package fundamentos;
 
 import java.util.Scanner;
 
+/* 
+* 1- ler os valores 
+* 2 - calcular delta
+* 3 - mostrar resultado
+*/
+
 public class Exercicio6 {
 
 	public static void main(String[] args) {
